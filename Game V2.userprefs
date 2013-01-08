@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\QuestLog.js">
+    <Files>
+      <File FileName="Assets\Scripts\KeyboardInput.js" Line="56" Column="3" />
+      <File FileName="Assets\Scripts\QuestLog.js" Line="115" Column="20" />
+      <File FileName="Assets\Scripts\QuestItem.js" Line="58" Column="23" />
+      <File FileName="Assets\Scripts\Inventory.js" Line="13" Column="21" />
+      <File FileName="Assets\Scripts\SetupScene.js" Line="42" Column="32" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
